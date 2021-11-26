@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\bin\Debug\net6.0\TutorialProjectHelloWorld.exe
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\bin\Debug\net6.0\TutorialProjectHelloWorld.deps.json
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\bin\Debug\net6.0\TutorialProjectHelloWorld.runtimeconfig.json
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\bin\Debug\net6.0\TutorialProjectHelloWorld.dll
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\bin\Debug\net6.0\ref\TutorialProjectHelloWorld.dll
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\bin\Debug\net6.0\TutorialProjectHelloWorld.pdb
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\obj\Debug\net6.0\TutorialProjectHelloWorld.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\obj\Debug\net6.0\TutorialProjectHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\obj\Debug\net6.0\TutorialProjectHelloWorld.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\obj\Debug\net6.0\TutorialProjectHelloWorld.AssemblyInfo.cs
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\obj\Debug\net6.0\TutorialProjectHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\obj\Debug\net6.0\TutorialProjectHelloWorld.dll
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\obj\Debug\net6.0\ref\TutorialProjectHelloWorld.dll
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\obj\Debug\net6.0\TutorialProjectHelloWorld.pdb
+C:\Users\danie\Desktop\c#\TutorialProjectHelloWorld\TutorialProjectHelloWorld\obj\Debug\net6.0\TutorialProjectHelloWorld.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\obj\Debug\net6.0\KreisBerrechnung.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\obj\Debug\net6.0\KreisBerrechnung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\obj\Debug\net6.0\KreisBerrechnung.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\obj\Debug\net6.0\KreisBerrechnung.AssemblyInfo.cs
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\obj\Debug\net6.0\KreisBerrechnung.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\bin\Debug\net6.0\KreisBerrechnung.exe
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\bin\Debug\net6.0\KreisBerrechnung.deps.json
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\bin\Debug\net6.0\KreisBerrechnung.runtimeconfig.json
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\bin\Debug\net6.0\KreisBerrechnung.dll
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\bin\Debug\net6.0\ref\KreisBerrechnung.dll
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\bin\Debug\net6.0\KreisBerrechnung.pdb
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\obj\Debug\net6.0\KreisBerrechnung.dll
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\obj\Debug\net6.0\ref\KreisBerrechnung.dll
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\obj\Debug\net6.0\KreisBerrechnung.pdb
+C:\Users\danie\Desktop\c#\KreisBerrechnung\KreisBerrechnung\obj\Debug\net6.0\KreisBerrechnung.genruntimeconfig.cache

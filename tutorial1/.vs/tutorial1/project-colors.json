@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f963e667-35c4-47a7-aa0b-e1883d49e3eb": {
+      "ProjectGuid": "f963e667-35c4-47a7-aa0b-e1883d49e3eb",
+      "DisplayName": "tutorial1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
