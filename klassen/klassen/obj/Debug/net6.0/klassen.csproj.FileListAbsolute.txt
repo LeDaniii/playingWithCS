@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\c#\klassen\klassen\bin\Debug\net6.0\klassen.exe
+C:\Users\danie\Desktop\c#\klassen\klassen\bin\Debug\net6.0\klassen.deps.json
+C:\Users\danie\Desktop\c#\klassen\klassen\bin\Debug\net6.0\klassen.runtimeconfig.json
+C:\Users\danie\Desktop\c#\klassen\klassen\bin\Debug\net6.0\klassen.dll
+C:\Users\danie\Desktop\c#\klassen\klassen\bin\Debug\net6.0\ref\klassen.dll
+C:\Users\danie\Desktop\c#\klassen\klassen\bin\Debug\net6.0\klassen.pdb
+C:\Users\danie\Desktop\c#\klassen\klassen\obj\Debug\net6.0\klassen.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\c#\klassen\klassen\obj\Debug\net6.0\klassen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\c#\klassen\klassen\obj\Debug\net6.0\klassen.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\c#\klassen\klassen\obj\Debug\net6.0\klassen.AssemblyInfo.cs
+C:\Users\danie\Desktop\c#\klassen\klassen\obj\Debug\net6.0\klassen.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\c#\klassen\klassen\obj\Debug\net6.0\klassen.dll
+C:\Users\danie\Desktop\c#\klassen\klassen\obj\Debug\net6.0\ref\klassen.dll
+C:\Users\danie\Desktop\c#\klassen\klassen\obj\Debug\net6.0\klassen.pdb
+C:\Users\danie\Desktop\c#\klassen\klassen\obj\Debug\net6.0\klassen.genruntimeconfig.cache

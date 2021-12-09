@@ -83,5 +83,7 @@ static void GameLoop(string word)
         Console.WriteLine();
         Console.Write("Buchstabe: ");
         char character = Convert.ToChar(Console.ReadLine().ToLower());
+
+
     }
 }
